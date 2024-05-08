@@ -1,6 +1,6 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @MeAwara
+# Subscribe YouTube Channel For Amazing Bot https://www.youtube.com/@M2KGAMINGGG
+# Ask Doubt on telegram @MeAwara
 
 import asyncio
 from typing import (
@@ -34,7 +34,7 @@ async def handle_force_sub(bot: Client, update: Message):
         if user.status == "kicked":
             await bot.send_message(
                 chat_id=update.from_user.id,
-                text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/vj_bot_disscussion).",
+                text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/Movies4UWorldOfficiall).",
                 disable_web_page_preview=True
             )
             return 400
@@ -63,7 +63,7 @@ async def handle_force_sub(bot: Client, update: Message):
     except Exception:
         await bot.send_message(
             chat_id=update.from_user.id,
-            text="Something went Wrong. Contact my [Support Group](https://t.me/vj_bot_disscussion).",
+            text="Something went Wrong. Contact my [Support Group](https://t.me/Movies4UWorldOfficiall).",
             disable_web_page_preview=True
         )
         return 200
