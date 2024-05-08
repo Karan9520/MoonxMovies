@@ -1,4 +1,4 @@
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @MeAwara
 # Subscribe YouTube Channel For Amazing Bot https://www.youtube.com/channel/UCZxhqSPuWIdkZT5qXpiKkow
 # Ask Doubt on telegram @MeAwara
 
