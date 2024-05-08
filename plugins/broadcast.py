@@ -1,6 +1,6 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @MeAwara
+# Subscribe YouTube Channel For Amazing Bot https://www.youtube.com/@M2KGAMINGGG
+# Ask Doubt on telegram @MeAwara
 
 import traceback, datetime, asyncio, string, random, time, os, aiofiles, aiofiles.os
 from database.access import techvj
