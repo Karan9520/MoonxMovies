@@ -1,6 +1,6 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @MeAwara
+# Subscribe YouTube Channel For Amazing Bot https://www.youtube.com/@M2KGAMINGGG
+# Ask Doubt on telegram @MeAwara
 
 import logging, requests, urllib.parse, os, time, shutil, asyncio, json, math
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
