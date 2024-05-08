@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @MeAwara
+# Subscribe YouTube Channel For Amazing Bot @Movies4USupport
+# Ask Doubt on telegram @MeAwara
 
 import motor.motor_asyncio
 from config import Config
@@ -65,6 +65,6 @@ class Database:
 
 tech_vj = Database(DATABASE_URI, DATABASE_NAME)
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @MeAwara
+# Subscribe YouTube Channel For Amazing Bot https://www.youtube.com/@M2KGAMINGGG
+# Ask Doubt on telegram @MeAwara
