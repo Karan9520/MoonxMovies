@@ -1,6 +1,6 @@
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Subscribe YouTube Channel For Amazing Bot https://www.youtube.com/channel/UCZxhqSPuWIdkZT5qXpiKkow
+# Ask Doubt on telegram @MeAwara
 
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
