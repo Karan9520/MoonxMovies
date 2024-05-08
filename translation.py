@@ -38,7 +38,7 @@ class Translation(object):
 """
 
     TECH_VJ_ABOUT_TEXT = """
-<b>♻️ ᴍʏ ɴᴀᴍᴇ : ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
+<b>♻️ ᴍʏ ɴᴀᴍᴇ : 🌺 𝙈𝙤𝙤𝙣 ✘ 𝙈𝙤𝙫𝙞𝙚𝙨 🌺
 
 🌀 ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/Movies4USupport">ᴍᴏᴠɪᴇꜱ 4ᴜ</a>
 
