@@ -1,6 +1,6 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @MeAwara
+# Subscribe YouTube Channel For Amazing Bot https://www.youtube.com/@M2KGAMINGGG
+# Ask Doubt on telegram @MeAwara
 
 from config import Config
 from pyrogram import filters
@@ -55,7 +55,7 @@ async def button(bot, update):
                 user = await bot.get_chat_member(channel_chat_id, update.message.chat.id)
                 if user.status == "kicked":
                     await update.message.edit(
-                        text="Sorry Sir, You are Banned to use me. Contact my [owner](https://t.me/kingvj01).",
+                        text="Sorry Sir, You are Banned to use me. Contact my [owner](https://t.me/MeAwara).",
                         disable_web_page_preview=True
                     )
                     return
@@ -78,7 +78,7 @@ async def button(bot, update):
                 return
             except Exception:
                 await update.message.edit(
-                    text="Something went Wrong. Contact my [owner](https://t.me/kingvj01).",
+                    text="Something went Wrong. Contact my [owner](https://t.me/MeAwara).",
                     disable_web_page_preview=True
                 )
                 return
